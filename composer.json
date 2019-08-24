@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php-amqplib/php-amqplib": "^2.10",
+        "fzaninotto/faker": "^1.8"
+    }
+}
